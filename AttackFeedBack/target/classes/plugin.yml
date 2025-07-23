@@ -1,0 +1,4 @@
+name: AttackFeedBack
+version: '1.0-SNAPSHOT'
+main: cc.bmmc.attackFeedBack.AttackFeedBack
+api-version: '1.20'
