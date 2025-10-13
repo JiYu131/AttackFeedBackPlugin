@@ -1,4 +1,7 @@
 # AttackFeedBackPlugin
+
+A Minecraft 1.20-1.21.4 Spigot Plugin,allow players to see the damage they caused or what entity attacked them.
+
 Adds a simple feedback in the action bar when player is combating!
 
 在玩家战斗时在动作栏中增加一个简单的反馈！
